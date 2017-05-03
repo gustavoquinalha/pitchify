@@ -1,0 +1,66 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body,
+html {
+  height: 100%;
+  background: #FEFEFE
+}
+.full-width {
+  width: 100%
+}
+.full-height {
+  height: 100%
+}
+a {
+  text-decoration: none;
+}
+.margin {
+  margin: 0 auto
+}
+
+.size {
+  width: 1400px;
+  max-width: 90%;
+}
+.menu {
+  height: 70px;
+  color: #fff
+}
+.b-test {
+  border: 1px solid red
+}
+.test {
+  background: red
+}
+.categories {
+  height: 50px;
+  width: 100%;
+}
+.cat {
+  margin: 10px
+}
+.cards1 {
+  padding-top: 50px;
+  color: #fff
+}
+.text-bg {
+  background: rgba(0, 0, 0, 0.5);
+}
+.card1 {
+  height: 300px;
+  margin: 10px;
+  border-radius: 20px;
+  overflow: hidden;
+}
+.text-card {
+  margin: 10px;
+}
+.text-card small {
+  color: rgba(255, 255, 255, 0.5);
+}
+.bg-principal {
+  background-repeat: no-repeat!important;
+  background-size: contain!important;
+}
