@@ -6,3 +6,4 @@ Uma plataforma para ver os projetos, aplicativos, sistemas lançados no mercado.
 - https://www.producthunt.com/
 - https://github.com/
 - http://panda.jobs/1117/head-of-product-design
+- https://angel.co/
